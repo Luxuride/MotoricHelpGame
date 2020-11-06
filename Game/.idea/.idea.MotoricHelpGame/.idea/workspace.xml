@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3388d0d-9146-4d10-b2a7-7cb98a32c3e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MotoricHelpGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MotoricHelpGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MotoricHelpGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MotoricHelpGame/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MotoricHelpGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MotoricHelpGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Collision Games/Game No. 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Collision Games/Game No. 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/ThreadManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Client.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/ThreadManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/Client.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/ClientHandle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/ClientSend.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/Packet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jeJKPmshM3HxUM1SRelKZFgic4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3388d0d-9146-4d10-b2a7-7cb98a32c3e6" name="Default Changelist" comment="" />
+      <created>1604158567756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604158567756</updated>
+      <workItem from="1604158579776" duration="1203000" />
+      <workItem from="1604180517578" duration="2973000" />
+      <workItem from="1604323177872" duration="1046000" />
+      <workItem from="1604346061275" duration="3614000" />
+      <workItem from="1604352337595" duration="6448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="334" width="800" height="530" key="Rider.ProjectTemplateDialog.Size" timestamp="1604359669400">
+      <screen x="0" y="28" width="1920" height="1172" />
+    </state>
+    <state x="555" y="334" width="800" height="530" key="Rider.ProjectTemplateDialog.Size/0.28.1920.1172/1583.1200.1920.1080@0.28.1920.1172" timestamp="1604359669400" />
+    <state x="2206" y="1439" width="672" height="678" key="search.everywhere.popup" timestamp="1604158826515">
+      <screen x="1583" y="1200" width="1920" height="1080" />
+    </state>
+    <state x="2206" y="1439" width="672" height="678" key="search.everywhere.popup/0.28.1920.1172/1583.1200.1920.1080@1583.1200.1920.1080" timestamp="1604158826515" />
+  </component>
+</project>

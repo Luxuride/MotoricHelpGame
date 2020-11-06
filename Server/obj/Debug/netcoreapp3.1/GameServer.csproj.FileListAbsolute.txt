@@ -1,0 +1,11 @@
+/home/lux/Documents/MotoricHelpGameVR/GameServer/bin/Debug/netcoreapp3.1/GameServer
+/home/lux/Documents/MotoricHelpGameVR/GameServer/bin/Debug/netcoreapp3.1/GameServer.deps.json
+/home/lux/Documents/MotoricHelpGameVR/GameServer/bin/Debug/netcoreapp3.1/GameServer.runtimeconfig.json
+/home/lux/Documents/MotoricHelpGameVR/GameServer/bin/Debug/netcoreapp3.1/GameServer.runtimeconfig.dev.json
+/home/lux/Documents/MotoricHelpGameVR/GameServer/bin/Debug/netcoreapp3.1/GameServer.dll
+/home/lux/Documents/MotoricHelpGameVR/GameServer/bin/Debug/netcoreapp3.1/GameServer.pdb
+/home/lux/Documents/MotoricHelpGameVR/GameServer/obj/Debug/netcoreapp3.1/GameServer.csprojAssemblyReference.cache
+/home/lux/Documents/MotoricHelpGameVR/GameServer/obj/Debug/netcoreapp3.1/GameServer.AssemblyInfoInputs.cache
+/home/lux/Documents/MotoricHelpGameVR/GameServer/obj/Debug/netcoreapp3.1/GameServer.AssemblyInfo.cs
+/home/lux/Documents/MotoricHelpGameVR/GameServer/obj/Debug/netcoreapp3.1/GameServer.dll
+/home/lux/Documents/MotoricHelpGameVR/GameServer/obj/Debug/netcoreapp3.1/GameServer.pdb
