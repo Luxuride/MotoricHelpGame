@@ -22,6 +22,6 @@ public class StoneSpawner : MonoBehaviour
 
     public void CreateStone()
     {
-        Instantiate(stonePrefab, new Vector3(-0.5f, 2f, -2.5f), Quaternion.identity);
+        Instantiate(stonePrefab, new Vector3(-0.2f, 2f, -2.7f), Quaternion.identity);
     }
 }

@@ -24,7 +24,7 @@ public class DetectCollision : MonoBehaviour
 
     void OnCollisionEnter(Collision col)
     {
-        if (col.gameObject.name.StartsWith("GameRock") && !CollisionProcessing)
+        if (col.gameObject.name.StartsWith("EggCollider") && !CollisionProcessing)
         {
             this.CollisionProcessing = true;
             StartCoroutine(DestroyObjectAfterDelay(col.gameObject));

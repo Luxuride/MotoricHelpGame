@@ -20,15 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da0b063d-2cdb-4907-9995-b01d922c76a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Controller Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Controller Prefabs/Collision Hand Controller.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Controller Prefabs/Collision Hand Controller.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Collision Games.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Collision Games/Game No. 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Collision Games/Game No. 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Collision Hand Controller.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Collision Hand Controller.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/GameRock.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/GameRock.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CollisionGames.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CollisionGames/Collision1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CollisionGames/Collision1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Materials/Metal textures pack/pattern 16/Metal pattern 16.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Materials/Metal textures pack/pattern 16/Metal pattern 16.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
@@ -41,11 +46,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/B7E79DA4-E854-4F74-B331-66A52A308AB6/af/3668a01d/020000B3pdb.il" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/Client.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8C8707B-2ADC-41B0-9AE6-82DF75FE1FD0/7c/c42cf3a1/SocketAsyncResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.13/Editor/Metadata/XRPackageMetadata.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8C8707B-2ADC-41B0-9AE6-82DF75FE1FD0/7c/c42cf3a1/SocketAsyncResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,6 +60,11 @@
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8C8707B-2ADC-41B0-9AE6-82DF75FE1FD0/7c/c42cf3a1/SocketAsyncResult.cs" />
         <option value="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.13/Editor/Metadata/XRPackageMetadata.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeScript.cs" />
       </list>
     </option>
   </component>
@@ -70,6 +82,26 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +111,11 @@
       <option name="presentableId" value="Default" />
       <updated>1604914486377</updated>
       <workItem from="1604914494249" duration="626000" />
-      <workItem from="1604915596070" duration="6849000" />
+      <workItem from="1604915596070" duration="7396000" />
+      <workItem from="1606047226293" duration="417000" />
+      <workItem from="1606311157597" duration="13000" />
+      <workItem from="1606311193329" duration="147000" />
+      <workItem from="1606722187036" duration="2161000" />
     </task>
     <servers />
   </component>
@@ -98,43 +134,76 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1350" height="345" key="GridCell.Tab.0.bottom" timestamp="1604916319120">
+    <state width="1870" height="345" key="GridCell.Tab.0.bottom" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1350" height="345" key="GridCell.Tab.0.bottom/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604916319120" />
-    <state width="1350" height="345" key="GridCell.Tab.0.center" timestamp="1604916319120">
+    <state width="1870" height="345" key="GridCell.Tab.0.bottom/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.0.center" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1350" height="345" key="GridCell.Tab.0.center/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604916319120" />
-    <state width="1350" height="345" key="GridCell.Tab.0.left" timestamp="1604916319119">
+    <state width="1870" height="345" key="GridCell.Tab.0.center/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.0.left" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1350" height="345" key="GridCell.Tab.0.left/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604916319119" />
-    <state width="1350" height="345" key="GridCell.Tab.0.right" timestamp="1604916319120">
+    <state width="1870" height="345" key="GridCell.Tab.0.left/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.0.right" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1350" height="345" key="GridCell.Tab.0.right/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604916319120" />
-    <state width="1870" height="345" key="GridCell.Tab.1.bottom" timestamp="1604919890949">
+    <state width="1870" height="345" key="GridCell.Tab.0.right/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.1.bottom" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1870" height="345" key="GridCell.Tab.1.bottom/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604919890949" />
-    <state width="1870" height="345" key="GridCell.Tab.1.center" timestamp="1604919890949">
+    <state width="1870" height="345" key="GridCell.Tab.1.bottom/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.1.center" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1870" height="345" key="GridCell.Tab.1.center/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604919890949" />
-    <state width="1870" height="345" key="GridCell.Tab.1.left" timestamp="1604919890949">
+    <state width="1870" height="345" key="GridCell.Tab.1.center/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.1.left" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1870" height="345" key="GridCell.Tab.1.left/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604919890949" />
-    <state width="1870" height="345" key="GridCell.Tab.1.right" timestamp="1604919890949">
+    <state width="1870" height="345" key="GridCell.Tab.1.left/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.1.right" timestamp="1604993593913">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>
-    <state width="1870" height="345" key="GridCell.Tab.1.right/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604919890949" />
+    <state width="1870" height="345" key="GridCell.Tab.1.right/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.2.bottom" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.2.bottom/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.2.center" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.2.center/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.2.left" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.2.left/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.2.right" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.2.right/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.3.bottom" timestamp="1604993593914">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.3.bottom/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593914" />
+    <state width="1870" height="345" key="GridCell.Tab.3.center" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.3.center/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.3.left" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.3.left/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
+    <state width="1870" height="345" key="GridCell.Tab.3.right" timestamp="1604993593913">
+      <screen x="1635" y="1200" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="345" key="GridCell.Tab.3.right/0.28.1920.1172/1635.1200.1920.1080@1635.1200.1920.1080" timestamp="1604993593913" />
     <state x="2037" y="1358" key="SettingsEditor" timestamp="1604918597843">
       <screen x="1635" y="1200" width="1920" height="1080" />
     </state>

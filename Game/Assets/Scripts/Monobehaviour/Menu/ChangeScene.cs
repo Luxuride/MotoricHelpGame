@@ -27,9 +27,9 @@ public class ChangeScene : MonoBehaviour
         
     }
 
-    void OnTriggerEnter(Collider collider)
+    void OnCollisionEnter(Collision collision)
     {
-        Debug.Log(collider);
+        Debug.Log(collision.collider.name);
         if (!loadingScene)
         {
             loadingScene = true;
