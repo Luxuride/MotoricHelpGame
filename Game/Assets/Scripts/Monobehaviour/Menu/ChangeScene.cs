@@ -13,8 +13,8 @@ public enum MinigameType
 }
 public class ChangeScene : MonoBehaviour
 {
-    public Scene GameScene;
-
+    public int GameSceneIndex = 0;
+    
     private bool loadingScene = false;
     // Start is called before the first frame update
     void Start()
@@ -33,7 +33,7 @@ public class ChangeScene : MonoBehaviour
         if (!loadingScene)
         {
             loadingScene = true;
-            SceneManager.LoadSceneAsync("Collision1").completed += OnSceneLoaded();
+            SceneManager.LoadSceneAsync(GameSceneIndex).completed += OnSceneLoaded();
         }
     }
 
