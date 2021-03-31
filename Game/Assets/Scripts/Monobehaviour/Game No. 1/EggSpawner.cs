@@ -4,14 +4,14 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-public class StoneSpawner : MonoBehaviour
+public class EggSpawner : MonoBehaviour
 {
-    public GameObject stonePrefab;
+    public GameObject eggPrefab;
 
     // Start is called before the first frame update
     void Start()
     {
-        CreateStone();
+        CreateEgg();
     }
 
     // Update is called once per frame
@@ -20,8 +20,8 @@ public class StoneSpawner : MonoBehaviour
         
     }
 
-    public void CreateStone()
+    public void CreateEgg()
     {
-        Instantiate(stonePrefab, new Vector3(-0.2f, 2f, -2.7f), Quaternion.identity);
+        Instantiate(eggPrefab, new Vector3(-0.2f, 2f, -2.7f), Quaternion.identity);
     }
 }

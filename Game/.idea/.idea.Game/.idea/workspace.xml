@@ -21,22 +21,281 @@
   <component name="ChangeListManager">
     <list default="true" id="da0b063d-2cdb-4907-9995-b01d922c76a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/2TableMove.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/2TableMove.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Collision1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Collision1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MyScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MyScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ReactionHalfCircle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ReactionHalfCircle.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/ReactionSpawner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/ReactionSpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CubeFilter.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CubeFilter.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FlyingSpherePoping.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FlyingSpherePoping.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectGroundCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectGroundCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Materials/Metal textures pack/pattern 26/Metal pattern 26.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Materials/Metal textures pack/pattern 26/Metal pattern 26.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Materials/Metal textures pack/pattern 27/Metal pattern 27.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Materials/Metal textures pack/pattern 27/Metal pattern 27.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/GameServer" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/GameServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/GameServer" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/GameServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.VisualBasic.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.VisualBasic.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.VisualBasic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.VisualBasic.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.Win32.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.Win32.Registry.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/Microsoft.Win32.Registry.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/SOS_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/SOS_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.AppContext.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.AppContext.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Buffers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Buffers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.Concurrent.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.Concurrent.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.Immutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.Immutable.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.NonGeneric.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.NonGeneric.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.Specialized.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.Specialized.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Collections.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.Annotations.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.DataAnnotations.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.DataAnnotations.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.EventBasedAsync.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.EventBasedAsync.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.TypeConverter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.TypeConverter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ComponentModel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Data.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Data.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Data.DataSetExtensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Data.DataSetExtensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Debug.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Debug.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Process.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Process.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.StackTrace.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.TextWriterTraceListener.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.TextWriterTraceListener.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Tools.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Tools.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.TraceSource.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.TraceSource.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Tracing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Diagnostics.Tracing.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Drawing.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Drawing.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Drawing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Drawing.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Dynamic.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Dynamic.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.Calendars.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.Calendars.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.Native.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.Native.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Globalization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.Brotli.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.Brotli.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.FileSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.Native.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.Native.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.Native.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.Native.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.ZipFile.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Compression.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.AccessControl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.AccessControl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.DriveInfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.DriveInfo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.Watcher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.Watcher.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.FileSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.IsolatedStorage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.IsolatedStorage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.MemoryMappedFiles.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.MemoryMappedFiles.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Pipes.AccessControl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Pipes.AccessControl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Pipes.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.Pipes.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.UnmanagedMemoryStream.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.UnmanagedMemoryStream.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.IO.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.Expressions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.Expressions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.Parallel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.Parallel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.Queryable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.Queryable.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Linq.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Memory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Memory.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Native.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Native.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Native.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Native.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Http.Native.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Http.Native.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Http.Native.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Http.Native.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Http.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Http.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.HttpListener.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.HttpListener.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Mail.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Mail.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.NameResolution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.NameResolution.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.NetworkInformation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.NetworkInformation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Ping.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Ping.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Requests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Requests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Security.Native.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Security.Native.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Security.Native.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Security.Native.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.ServicePoint.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.ServicePoint.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Sockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.Sockets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebHeaderCollection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebHeaderCollection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebProxy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebProxy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebSockets.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebSockets.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebSockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.WebSockets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Net.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Numerics.Vectors.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Numerics.Vectors.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Numerics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Numerics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ObjectModel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ObjectModel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.CoreLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.CoreLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.DataContractSerialization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.DataContractSerialization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.Uri.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.Uri.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.Xml.Linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.Xml.Linq.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.Xml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Private.Xml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.DispatchProxy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.DispatchProxy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Emit.ILGeneration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Emit.ILGeneration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Emit.Lightweight.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Emit.Lightweight.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Emit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Emit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Metadata.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Metadata.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.TypeExtensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.TypeExtensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Reflection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Resources.Reader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Resources.Reader.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Resources.ResourceManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Resources.ResourceManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Resources.Writer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Resources.Writer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.CompilerServices.VisualC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.CompilerServices.VisualC.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Handles.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Handles.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.InteropServices.RuntimeInformation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.InteropServices.WindowsRuntime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.InteropServices.WindowsRuntime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.InteropServices.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.InteropServices.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Intrinsics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Intrinsics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Loader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Loader.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Numerics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Numerics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Formatters.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Formatters.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Xml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.Xml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.Serialization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.WindowsRuntime.UI.Xaml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.WindowsRuntime.UI.Xaml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.WindowsRuntime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.WindowsRuntime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.AccessControl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.AccessControl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Claims.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Claims.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Algorithms.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Cng.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Cng.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Csp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Csp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Encoding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Native.OpenSsl.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Native.OpenSsl.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Native.OpenSsl.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Native.OpenSsl.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.OpenSsl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.OpenSsl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Principal.Windows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Principal.Windows.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Principal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.Principal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.SecureString.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.SecureString.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ServiceModel.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ServiceModel.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ServiceProcess.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ServiceProcess.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encoding.CodePages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encoding.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encoding.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encoding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encoding.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encodings.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.RegularExpressions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Text.RegularExpressions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Channels.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Channels.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Overlapped.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Overlapped.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.Dataflow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.Dataflow.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.Parallel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.Parallel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Tasks.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Thread.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Thread.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.ThreadPool.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.ThreadPool.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Timer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.Timer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Threading.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Transactions.Local.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Transactions.Local.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Transactions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Transactions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ValueTuple.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.ValueTuple.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Web.HttpUtility.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Web.HttpUtility.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Windows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Windows.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.Linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.Linq.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.ReaderWriter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.Serialization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.Serialization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XPath.XDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XPath.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XPath.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XmlDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XmlSerializer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.XmlSerializer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.Xml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/System.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/WindowsBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/WindowsBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/createdump" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/createdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libclrjit.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libclrjit.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libcoreclr.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libcoreclr.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libcoreclrtraceptprovider.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libcoreclrtraceptprovider.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libdbgshim.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libdbgshim.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libhostfxr.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libhostfxr.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libhostpolicy.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libhostpolicy.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libmscordaccore.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libmscordaccore.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libmscordbi.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/libmscordbi.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/mscorlib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/mscorlib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/netstandard.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/bin/Debug/netcoreapp3.1/linux-x64/netstandard.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/obj/Debug/netcoreapp3.1/GameServer" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/obj/Debug/netcoreapp3.1/GameServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/obj/Debug/netcoreapp3.1/linux-x64/GameServer" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/obj/Debug/netcoreapp3.1/linux-x64/GameServer" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,36 +306,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/B7E79DA4-E854-4F74-B331-66A52A308AB6/af/3668a01d/020000B3pdb.il" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/EggSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Shared/Network/Client.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.13/Editor/Metadata/XRPackageMetadata.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectGroundCollision.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8C8707B-2ADC-41B0-9AE6-82DF75FE1FD0/7c/c42cf3a1/SocketAsyncResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectGroundCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.oculus@1.4.3/Runtime/OculusLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Editor/OculusSampleFrameworkUtil.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.13/Editor/Metadata/XRPackageMetadata.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8C8707B-2ADC-41B0-9AE6-82DF75FE1FD0/7c/c42cf3a1/SocketAsyncResult.cs" />
-        <option value="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" />
-        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@3.2.13/Editor/Metadata/XRPackageMetadata.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeDestroyer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectGroundCollision.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/LocalGameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 2/CubeScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/CubeFilter/TableScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/CubeFilter/CubeSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SceneManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/PopGameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereScript.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/StoneSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectGroundCollision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/EggSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Game No. 1/DetectCollision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/SpherePoper/SphereScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviour/Menu/ChangeScene.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1k31V5bTiiBa7eHVXg4YpLwxDz3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,6 +339,7 @@
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3501903" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30016312" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -98,7 +350,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -107,7 +359,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -133,6 +385,12 @@
       <workItem from="1607946329914" duration="5530000" />
       <workItem from="1609686759448" duration="2000" />
       <workItem from="1609686791346" duration="6999000" />
+      <workItem from="1609763444927" duration="187000" />
+      <workItem from="1609765618000" duration="643000" />
+      <workItem from="1612779314921" duration="2917000" />
+      <workItem from="1613223857357" duration="908000" />
+      <workItem from="1614462719024" duration="767000" />
+      <workItem from="1615063755977" duration="753000" />
     </task>
     <servers />
   </component>

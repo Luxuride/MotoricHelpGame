@@ -3,7 +3,8 @@
 public class SphereScript : MonoBehaviour
 {
     private bool collided = false;
-    public float AntiGravity = 20f;
+    
+    public float AntiGravity = 8f;
     public Rigidbody rb;
 
     public SphereSpawner sphereSpawner;

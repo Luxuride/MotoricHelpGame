@@ -19,6 +19,15 @@ public class ChangeScene : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        StartCoroutine(EnableCollision());
+    }
+
+    // Fix bug of throwing player into all scenes at the same time if hands are visible
+    private bool CollisionEnabled = false;
+    IEnumerator EnableCollision()
+    {
+        yield return new WaitForSeconds(0.1f);
+        CollisionEnabled = true;
     }
 
     // Update is called once per frame
@@ -29,8 +38,7 @@ public class ChangeScene : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        Debug.Log(collision.collider.name);
-        if (!loadingScene)
+        if (!loadingScene && CollisionEnabled)
         {
             loadingScene = true;
             SceneManager.LoadSceneAsync(GameSceneIndex).completed += OnSceneLoaded();

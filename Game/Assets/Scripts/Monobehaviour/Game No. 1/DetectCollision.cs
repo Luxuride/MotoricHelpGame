@@ -8,7 +8,7 @@ public class DetectCollision : MonoBehaviour
     public ParticleSystem MyParticleSystem;
     private bool CollisionProcessing = false;
     private int points = 0;
-    public StoneSpawner stoneSpawner;
+    public EggSpawner eggSpawner;
 
     public TextMeshPro pointsText;
     // Start is called before the first frame update
@@ -20,7 +20,7 @@ public class DetectCollision : MonoBehaviour
     void Update()
     {
         
-    }
+    }   
 
     void OnCollisionEnter(Collision col)
     {
@@ -40,6 +40,6 @@ public class DetectCollision : MonoBehaviour
         this.MyParticleSystem.Play();
         yield return new WaitForSeconds(1.5f);
         this.CollisionProcessing = false;
-        this.stoneSpawner.CreateStone();
+        this.eggSpawner.CreateEgg();
     }
 }

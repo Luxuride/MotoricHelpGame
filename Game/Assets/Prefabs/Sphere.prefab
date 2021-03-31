@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d886c71936f52a6bbaceca106e6ccb0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AntiGravity: 8
+  AntiGravity: 8.2
   rb: {fileID: 7265252245325086560}
   sphereSpawner: {fileID: 0}
 --- !u!54 &7265252245325086560

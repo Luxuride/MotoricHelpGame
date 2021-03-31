@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DetectGroundCollision : MonoBehaviour
 {
-    public StoneSpawner stoneSpawner;
+    public EggSpawner eggSpawner;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,7 +21,7 @@ public class DetectGroundCollision : MonoBehaviour
     {
         if (col.gameObject.name.StartsWith("EggCollider"))
         {
-            stoneSpawner.CreateStone();
+            eggSpawner.CreateEgg();
         }
     }
 }
