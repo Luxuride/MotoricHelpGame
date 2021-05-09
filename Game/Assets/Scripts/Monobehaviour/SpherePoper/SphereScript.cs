@@ -26,7 +26,7 @@ public class SphereScript : MonoBehaviour
         if (!collided)
         {
             collided = true;
-            if (other.collider.name != "rpgpp_lt_terrain_grass_01")
+            if (other.collider.name != "rpgpp_lt_terrain_grass_01" && !other.collider.name.Contains("Cube"))
             {
                 sphereSpawner.AddPoint();
             }

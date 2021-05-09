@@ -20,7 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ReactionHalfCircle.unity
     guid: 06445b52e650a9a99bb0e2245938b8d8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/CubeFilter.unity
     guid: 36c5065e1202a75b987864bd6c98224b
   m_configObjects:

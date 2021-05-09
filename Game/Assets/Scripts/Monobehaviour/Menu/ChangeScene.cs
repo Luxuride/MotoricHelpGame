@@ -14,7 +14,7 @@ public enum MinigameType
 public class ChangeScene : MonoBehaviour
 {
     public int GameSceneIndex = 0;
-    
+    public string[] ExcludeObjects = new string[0];
     private bool loadingScene = false;
     // Start is called before the first frame update
     void Start()
@@ -38,6 +38,14 @@ public class ChangeScene : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
+        // Default size 0
+        foreach (var item in ExcludeObjects)
+        {
+            if (collision.collider.name.Contains(item))
+            {
+                return;
+            }
+        }
         if (!loadingScene && CollisionEnabled)
         {
             loadingScene = true;
